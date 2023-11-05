@@ -3,14 +3,12 @@
 |  工具  | Android  | Windows  |  
 |  ----  | ----   | ----  |  
 | v2ray  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.6.28/v2rayNG_1.6.28_arm64-v8a.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip) |  
-### v2rayN使用教程：[点击查看](https://github.com/freefq/tutorials)  
+### v2rayN使用教程：[点击查看](https://github.com/bp520/jc)  
 ### 节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 ### 节点更新订阅  
 - `https://bulinkbulink.com/freefq/free/master/v2`  
-### 自建节点订阅  
-[bulink.xyz](https://bulink.xyz)注册（要翻墙）除可订阅本页免费节点，还有每月5G自建节点免费流量，不用打卡签到长期有效，欢迎体验  
-新开bulink镜像站[burstlinker.com](https://www.burstlinker.com)（不需要翻墙）  
+
 ## v2ray  
 ```  
 vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDEiLCAiYWRkIjogIjE2Mi4xNTkuMTM2LjIzMiIsICJwb3J0IjogIjIwOTYiLCAiaWQiOiAiNDlkYzczMDAtMWZjMS00YzkzLTg2NmYtYWE0OTNjNGEzZTViIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ5dXhPUnU2TGpvaGljZWY5LnBvdXJpeWEuY2YiLCAicGF0aCI6ICIvQW1zdGVyZGFtIiwgInRscyI6ICJ0bHMiLCAic25pIjogIjBwZWZlc3RMMHVkdXN0OHoucG91cml5YS5jZiIsICJhbHBuIjogImgyLGh0dHAvMS4xIiwgImZwIjogImNocm9tZSJ9  
